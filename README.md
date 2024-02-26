@@ -1,9 +1,9 @@
 # Apple-Watch-LandingPage
 ### Screenshot
 
-![](./img/screencapture-elaf-gardi-github-io-Apple-Watch)
-![](./img/screencapture-elaf-gardi-github-io-Apple-Watch (2))
-![](./img/screencapture-elaf-gardi-github-io-Apple-Watch (3))
+![](./img/screencapture-elaf-gardi-github-io-Apple-Watch.png)
+![](./img/screencapture-elaf-gardi-github-io-Apple-Watch(2).png)
+![](./img/screencapture-elaf-gardi-github-io-Apple-Watch(3).png)
 
 ### Links
 
