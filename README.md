@@ -2,8 +2,6 @@
 ### Screenshot
 
 ![](./img/screencapture-elaf-gardi-github-io-Apple-Watch.png)
-![](./img/screencapture-elaf-gardi-github-io-Apple-Watch(2).png)
-![](./img/screencapture-elaf-gardi-github-io-Apple-Watch(3).png)
 
 ### Links
 
